@@ -8,9 +8,6 @@ profile:
   align: right
   image: # no photo — text-only homepage
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>Austin, TX</p>
-    <p>frankhou [at] utexas [dot] edu</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
